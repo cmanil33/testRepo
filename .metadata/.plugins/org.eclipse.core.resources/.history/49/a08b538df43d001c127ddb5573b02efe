@@ -1,0 +1,41 @@
+package utilities;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
+
+public class CommonFunctionalities {
+
+	public WebDriver driver;
+	Actions act; 
+
+	public WebDriver driverInit() {
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\User\\OneDrive\\Desktop\\Selenium Training Resources\\chromedriver_win32\\chromedriver.exe");
+		driver = new ChromeDriver();
+
+		//Implicit wait
+		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+		driver.manage().window().maximize();
+
+		return driver;
+	}
+
+	public void getScreenshot() {
+
+	}
+
+	public void selectValueFromStaticDropDown(WebElement wb) {
+		Select s1 = new Select(wb);
+		s1.selectByVisibleText("Option3");		
+	}
+
+	public void mouseHoverOnWebElement() {
+		act = new Actions(driver);
+		
+	}
+	
+}

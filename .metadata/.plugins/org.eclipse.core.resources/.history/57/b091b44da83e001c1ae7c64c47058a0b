@@ -1,0 +1,17 @@
+package pageObjects;
+
+public class FlightsObject {
+
+	public WebDriver driver;
+
+	By signin=By.cssSelector("a[href*='sign_in']");
+
+	public FlightsObject(WebDriver driver) {	
+		this.driver=driver;	
+	}
+
+	public WebElement getLogin()
+	{
+		return driver.findElement(signin);
+	}
+}

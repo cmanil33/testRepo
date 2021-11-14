@@ -1,0 +1,10 @@
+io.cucumber.junit.UndefinedStepException: The step 'verify if user is able to see "Economy" and "Business" and "First" flight types' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("verify if user is able to see {string} and {string} and {string} flight types")
+public void verify_if_user_is_able_to_see_and_and_flight_types(String string, String string2, String string3) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

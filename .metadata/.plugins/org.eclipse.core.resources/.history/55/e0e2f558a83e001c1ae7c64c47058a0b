@@ -1,0 +1,17 @@
+package pageObjects;
+
+public class FlightsObject {
+
+	public WebDriver driver;
+
+	By flightTypes = By.xpath("//*[@id='flight_type']/option");
+
+	public FlightsObject(WebDriver driver) {	
+		this.driver=driver;	
+	}
+
+	public WebElement getLogin()
+	{
+		return driver.findElement(signin);
+	}
+}

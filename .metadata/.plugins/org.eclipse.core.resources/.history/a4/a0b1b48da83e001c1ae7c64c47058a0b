@@ -1,0 +1,26 @@
+package pageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class FlightsObject {
+
+	public WebDriver driver;
+
+	By flightTypes = By.xpath("//*[@id='flight_type']/option");
+
+	By passegener = By.xpath(null);
+	
+	public FlightsObject(WebDriver driver) {	
+		this.driver=driver;	
+	}
+
+	public WebElement getflightTypes()
+	{
+		return driver.findElement(flightTypes);
+	}
+	
+	
+	
+}

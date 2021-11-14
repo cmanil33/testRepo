@@ -1,0 +1,15 @@
+package runnerPkg;
+
+
+import org.junit.runner.RunWith;
+
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(  		
+	    features = "C:\\Users\\User\\OneDrive\\Desktop\\Framework\\DemoArtifact\\src\\main\\java\\featureFiles\\Home.feature",
+	    glue="stepDefition")
+public class TestRunner {
+	
+}

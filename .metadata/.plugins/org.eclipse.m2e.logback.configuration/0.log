@@ -1,0 +1,942 @@
+2021-11-03 06:34:27,270 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-03 06:37:42,082 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml
+2021-11-03 06:37:44,346 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-03 06:37:44,907 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoArtifact/src/main/java
+2021-11-03 06:37:44,927 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoArtifact/src/test/java
+2021-11-03 06:37:45,070 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-11-03 06:37:48,043 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:37:48,044 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 06:37:48,050 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:37:48,050 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 06:44:01,380 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-03 06:44:03,386 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:44:03,386 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 06:44:03,393 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:44:03,393 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 06:44:06,945 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:44:06,946 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 06:44:06,951 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:44:06,951 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 06:45:30,218 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-03 06:45:31,798 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:45:31,800 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 06:45:31,805 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:45:31,806 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 06:45:34,562 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:45:34,563 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 06:45:34,567 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:45:34,568 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 06:45:59,965 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-03 06:46:01,258 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:46:01,284 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 06:46:01,291 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 06:46:01,291 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 07:03:26,123 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:03:26,123 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 07:03:26,127 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:03:26,128 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 07:03:45,573 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:03:45,574 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 07:03:45,589 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:03:45,590 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 07:06:42,635 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:06:42,635 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 07:06:42,638 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:06:42,639 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 07:10:47,138 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:10:47,139 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 07:10:47,144 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:10:47,145 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 07:12:34,705 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:12:34,705 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 07:12:34,708 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:12:34,708 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-03 07:25:39,751 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:25:39,752 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-03 07:25:39,754 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-03 07:25:39,755 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:23:54,679 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-04 06:41:44,979 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:41:44,985 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:41:44,989 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:41:44,989 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:42:17,835 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:42:17,836 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:42:17,840 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:42:17,841 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:46:00,697 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:46:00,698 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:46:00,704 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:46:00,704 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:46:17,624 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:46:17,625 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:46:17,628 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:46:17,628 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:46:26,076 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:46:26,077 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:46:26,080 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:46:26,081 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:47:20,073 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:47:20,074 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:47:20,077 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:47:20,077 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:47:36,236 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:47:36,236 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:47:36,239 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:47:36,240 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:48:14,502 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:48:14,503 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:48:14,507 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:48:14,508 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:49:17,597 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:49:17,597 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:49:17,602 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:49:17,604 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:49:31,068 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:49:31,069 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:49:31,072 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:49:31,073 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:49:47,650 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:49:47,650 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:49:47,653 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:49:47,653 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:50:26,839 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:50:26,840 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:50:26,843 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:50:26,843 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:50:40,010 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:50:40,011 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:50:40,013 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:50:40,014 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:50:47,342 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:50:47,342 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:50:47,345 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:50:47,346 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:51:07,435 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:51:07,436 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:51:07,438 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:51:07,439 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:51:27,667 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:51:27,668 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:51:27,672 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:51:27,672 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:51:34,455 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:51:34,455 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:51:34,458 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:51:34,458 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:52:31,649 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:52:31,649 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:52:31,652 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:52:31,652 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:52:40,321 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:52:40,321 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:52:40,323 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:52:40,324 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:53:21,927 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-11-04 06:53:22,942 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-04 06:53:24,629 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-11-04 06:53:24,983 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-11-04 06:53:26,301 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoArtifact/src/main/java
+2021-11-04 06:53:26,303 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoArtifact/src/test/java
+2021-11-04 06:53:26,889 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-11-04 06:53:28,133 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:53:28,134 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:53:28,137 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:53:28,138 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 06:55:46,819 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:55:46,819 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 06:55:46,821 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 06:55:46,822 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:00:59,252 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:00:59,253 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:00:59,256 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:00:59,256 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:01:14,503 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:01:14,503 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:01:14,505 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:01:14,505 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:01:17,296 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:01:17,297 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:01:17,299 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:01:17,299 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:02:04,229 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:02:04,230 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:02:04,234 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:02:04,234 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:12:40,655 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-04 07:14:29,579 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:14:29,583 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:14:29,586 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:14:29,588 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:14:56,325 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:14:56,326 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:14:56,332 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:14:56,332 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:15:11,994 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:15:11,996 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:15:11,999 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:15:12,000 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:15:57,445 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:15:57,446 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:15:57,450 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:15:57,455 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:16:06,848 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:16:06,849 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:16:06,852 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:16:06,852 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:26:05,454 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-04 07:34:00,310 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-04 07:35:45,742 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:35:45,742 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:35:45,747 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:35:45,748 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-04 07:36:30,600 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:36:30,600 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-04 07:36:30,603 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-04 07:36:30,603 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:39:37,616 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:39:37,620 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:39:37,631 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:39:37,632 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:40:16,084 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:40:16,085 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:40:16,087 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:40:16,088 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:41:15,638 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:41:15,638 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:41:15,641 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:41:15,641 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:42:51,384 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:42:51,384 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:42:51,387 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:42:51,387 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:46:27,035 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:46:27,036 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:46:27,038 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:46:27,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:46:32,713 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:46:32,714 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:46:32,718 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:46:32,719 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:48:04,318 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:48:04,318 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:48:04,323 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:48:04,324 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:48:19,244 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:48:19,244 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:48:19,246 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:48:19,247 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:49:19,685 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:49:19,685 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:49:19,688 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:49:19,688 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:49:42,656 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:49:42,656 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:49:42,659 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:49:42,659 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:52:51,604 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:52:51,605 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:52:51,607 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:52:51,607 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:55:55,904 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:55:55,905 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:55:55,907 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:55:55,908 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:57:39,992 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:57:39,993 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:57:39,995 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:57:39,996 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 06:59:18,629 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:59:18,630 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 06:59:18,635 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 06:59:18,636 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:00:09,056 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:00:09,056 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:00:09,059 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:00:09,059 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:04:13,078 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:04:13,079 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:04:13,081 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:04:13,081 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:04:51,627 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:04:51,627 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:04:51,629 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:04:51,630 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:05:59,801 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:05:59,801 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:05:59,804 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:05:59,804 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:06:17,034 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:06:17,034 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:06:17,036 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:06:17,037 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:06:24,337 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:06:24,338 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:06:24,343 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:06:24,345 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:08:54,608 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:08:54,608 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:08:54,611 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:08:54,612 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:09:17,073 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:09:17,074 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:09:17,076 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:09:17,076 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:11:48,896 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:11:48,897 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:11:48,899 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:11:48,899 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 07:12:50,410 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:12:50,411 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 07:12:50,413 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 07:12:50,413 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:21:03,973 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:21:03,975 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:21:03,978 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:21:03,979 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:25:09,771 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:25:09,772 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:25:09,776 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:25:09,776 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:25:20,799 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:25:20,800 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:25:20,804 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:25:20,805 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:28:00,550 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:28:00,551 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:28:00,553 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:28:00,553 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:29:52,875 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:29:52,876 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:29:52,893 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:29:52,894 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:35:45,158 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:35:45,158 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:35:45,160 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:35:45,161 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:36:28,372 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:36:28,373 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:36:28,375 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:36:28,375 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:36:37,076 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:36:37,076 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:36:37,079 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:36:37,080 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:38:00,097 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:38:00,097 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:38:00,099 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:38:00,099 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:38:18,970 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:38:18,970 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:38:18,972 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:38:18,972 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:38:29,321 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:38:29,322 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:38:29,324 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:38:29,324 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:39:38,598 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:39:38,599 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:39:38,602 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:39:38,603 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:39:53,370 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:39:53,371 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:39:53,375 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:39:53,376 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:46:50,074 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:46:50,076 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:46:50,079 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:46:50,080 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:47:54,060 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:47:54,062 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:47:54,064 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:47:54,065 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:48:41,500 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:48:41,500 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:48:41,504 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:48:41,505 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:49:33,845 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:49:33,845 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:49:33,850 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:49:33,850 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:51:17,534 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:51:17,534 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:51:17,536 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:51:17,537 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:56:09,196 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:56:09,197 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:56:09,199 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:56:09,200 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:57:48,938 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:57:48,939 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:57:48,941 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:57:48,946 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:59:04,857 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:59:04,858 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:59:04,862 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:59:04,862 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:59:14,689 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:59:14,690 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:59:14,694 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:59:14,695 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 10:59:35,889 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:59:35,890 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 10:59:35,894 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 10:59:35,895 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:04:01,327 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:04:01,327 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:04:01,329 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:04:01,330 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:04:45,382 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:04:45,382 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:04:45,384 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:04:45,385 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:04:46,695 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:04:46,696 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:04:46,698 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:04:46,698 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:05:33,386 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:05:33,387 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:05:33,389 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:05:33,390 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:05:45,455 [Worker-65: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:05:45,455 [Worker-65: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:05:45,458 [Worker-65: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:05:45,459 [Worker-65: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:06:39,546 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:06:39,546 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:06:39,548 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:06:39,549 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:08:51,220 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:08:51,221 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:08:51,224 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:08:51,224 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:10:18,303 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:10:18,305 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:10:18,308 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:10:18,308 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:10:54,745 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:10:54,746 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:10:54,749 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:10:54,749 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:11:12,535 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:11:12,535 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:11:12,537 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:11:12,538 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:13:14,667 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:13:14,667 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:13:14,669 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:13:14,669 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:13:42,377 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:13:42,377 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:13:42,379 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:13:42,380 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:13:52,025 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:13:52,025 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:13:52,027 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:13:52,027 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:14:50,701 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:14:50,701 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:14:50,703 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:14:50,704 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:17:14,390 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:17:14,391 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:17:14,393 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:17:14,394 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:21:03,177 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:21:03,177 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:21:03,180 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:21:03,180 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:24:03,784 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:24:03,785 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:24:03,787 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:24:03,787 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:24:24,335 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:24:24,336 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:24:24,339 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:24:24,352 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:27:07,737 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:27:07,738 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:27:07,743 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:27:07,745 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:27:15,875 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:27:15,876 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:27:15,878 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:27:15,880 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:32:36,833 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:32:36,833 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:32:36,839 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:32:36,839 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:32:50,302 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:32:50,303 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:32:50,305 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:32:50,306 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:33:56,376 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:33:56,377 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:33:56,382 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:33:56,384 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:41:03,143 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:41:03,144 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:41:03,145 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:41:03,146 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:41:29,256 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:41:29,257 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:41:29,259 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:41:29,260 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:41:31,251 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:41:31,253 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:41:31,254 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:41:31,255 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:42:13,858 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:42:13,859 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:42:13,860 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:42:13,861 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 11:43:38,431 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:43:38,432 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 11:43:38,434 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 11:43:38,435 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 12:56:50,152 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-05 12:57:40,895 [Worker-7: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 12:57:40,915 [Worker-7: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 12:59:53,604 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 12:59:55,151 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:59:55,152 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 12:59:55,157 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:59:55,157 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 12:59:57,794 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:59:57,795 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 12:59:57,799 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:59:57,799 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:00:02,426 [Worker-12: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:00:02,427 [Worker-12: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:00:23,232 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:00:23,233 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:00:23,236 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:00:23,236 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:07:31,849 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:07:33,128 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:07:33,129 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:07:33,133 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:07:33,133 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:07:42,366 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:07:43,416 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:07:43,416 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:07:43,420 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:07:43,420 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:07:49,443 [Worker-18: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:07:49,444 [Worker-18: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:07:55,184 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:07:55,184 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:07:55,187 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:07:55,187 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:08:10,932 [Worker-13: Launching Executing install in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:08:10,933 [Worker-13: Launching Executing install in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-11-05 13:08:28,158 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:08:28,159 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:08:28,160 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:08:28,161 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:08:55,123 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:08:56,299 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:08:56,301 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:08:56,305 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:08:56,305 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:08:59,874 [Worker-13: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:08:59,874 [Worker-13: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:09:06,473 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:09:06,473 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:09:06,476 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:09:06,476 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:10:27,052 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:10:28,733 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:10:28,734 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:10:28,741 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:10:28,742 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:10:38,972 [Worker-21: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:10:38,972 [Worker-21: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:10:50,494 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:10:51,855 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:10:51,855 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:10:51,860 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:10:51,860 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:10:54,689 [Worker-22: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:10:54,689 [Worker-22: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:12:35,302 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:12:35,303 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:12:35,310 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:12:35,310 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:12:47,126 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:12:47,127 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:12:47,131 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:12:47,133 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:13:35,808 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:13:35,808 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:13:35,810 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:13:35,811 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:13:56,674 [Worker-23: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:13:56,675 [Worker-23: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:14:58,352 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:14:58,352 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:14:58,354 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:14:58,355 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:21:40,702 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:21:42,508 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:21:42,509 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:21:42,523 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:21:42,524 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:21:58,594 [Worker-26: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:21:58,595 [Worker-26: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:22:20,953 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:22:20,953 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:22:20,956 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:22:20,956 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:23:52,734 [Worker-28: Launching Executing clean in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:23:52,735 [Worker-28: Launching Executing clean in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-11-05 13:23:59,721 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:23:59,721 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:23:59,723 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:23:59,724 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:24:35,377 [Worker-27: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:24:35,377 [Worker-27: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:25:02,605 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:25:02,605 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:25:02,607 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:25:02,607 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:32:30,958 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:32:32,280 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:32:32,281 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:32:32,283 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:32:32,284 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:33:40,543 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-05 13:33:41,629 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:33:41,630 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:33:41,633 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:33:41,633 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:35:51,756 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:35:51,757 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:35:51,760 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:35:51,760 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:36:57,386 [Worker-32: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:36:57,387 [Worker-32: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:37:20,314 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:37:20,314 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:37:20,317 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:37:20,318 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:41:15,208 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:41:15,209 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:41:15,211 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:41:15,211 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:41:37,523 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:41:37,524 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:41:37,532 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:41:37,533 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:41:44,859 [Worker-43: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:41:44,859 [Worker-43: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:42:06,517 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:42:06,517 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:42:06,519 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:42:06,519 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:43:31,295 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:43:31,295 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:43:31,297 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:43:31,297 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:44:00,909 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:44:00,909 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:44:00,912 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:44:00,913 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:44:14,144 [Worker-49: Launching Executing install in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:44:14,145 [Worker-49: Launching Executing install in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-11-05 13:44:52,555 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:44:52,555 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:44:52,558 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:44:52,558 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:46:32,400 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:46:32,401 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:46:32,403 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:46:32,403 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:46:39,016 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:46:39,017 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:46:39,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:46:39,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:47:03,366 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:47:03,366 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:47:03,368 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:47:03,368 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:47:29,043 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:47:29,043 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:47:29,045 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:47:29,045 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:47:35,913 [Worker-53: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-05 13:47:35,913 [Worker-53: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-05 13:49:11,444 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:49:11,445 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:49:11,446 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:49:11,446 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:49:43,452 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:49:43,452 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:49:43,454 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:49:43,454 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:51:35,828 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:51:35,829 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:51:35,832 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:51:35,832 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:54:33,146 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:54:33,146 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:54:33,148 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:54:33,148 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:54:49,942 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:54:49,943 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:54:49,944 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:54:49,945 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:55:47,886 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:55:47,886 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:55:47,888 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:55:47,889 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:55:55,596 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:55:55,596 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:55:55,598 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:55:55,599 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:56:22,642 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:56:22,642 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:56:22,644 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:56:22,644 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:56:31,963 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:56:31,963 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:56:31,965 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:56:31,965 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:57:14,212 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:57:14,212 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:57:14,214 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:57:14,214 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 13:57:50,295 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:57:50,296 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 13:57:50,297 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:57:50,298 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:02:47,041 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:02:47,042 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:02:47,044 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:02:47,044 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:03:22,672 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:03:22,673 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:03:22,677 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:03:22,677 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:04:10,592 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:04:10,592 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:04:10,595 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:04:10,596 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:04:55,738 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:04:55,738 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:04:55,739 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:04:55,740 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:05:09,295 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:05:09,296 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:05:09,298 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:05:09,298 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:05:36,647 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:05:36,648 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:05:36,649 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:05:36,650 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:05:42,168 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:05:42,169 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:05:42,171 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:05:42,171 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:06:28,080 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:06:28,081 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:06:28,084 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:06:28,085 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-05 19:07:32,803 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:07:32,804 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-05 19:07:32,806 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:07:32,806 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 06:42:42,391 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-06 07:08:40,436 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:08:40,441 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:08:40,449 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:08:40,449 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:09:49,647 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:09:49,648 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:09:49,653 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:09:49,653 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:12:49,574 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:12:49,575 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:12:49,579 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:12:49,579 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:12:58,695 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:12:58,696 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:12:58,699 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:12:58,699 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:13:14,003 [Worker-17: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:13:14,003 [Worker-17: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:13:14,006 [Worker-17: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:13:14,007 [Worker-17: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:15:44,759 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:15:44,760 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:15:44,762 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:15:44,763 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:16:05,347 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:16:05,348 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:16:05,353 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:16:05,354 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:17:14,734 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:17:14,734 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:17:14,739 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:17:14,739 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:19:28,110 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-06 07:19:29,630 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:19:29,631 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:19:29,635 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:19:29,636 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:25:13,673 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:25:13,673 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:25:13,677 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:25:13,677 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:25:25,753 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:25:25,754 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:25:25,757 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:25:25,757 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:27:01,401 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:27:01,402 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:27:01,404 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:27:01,404 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:29:02,795 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:29:02,795 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:29:02,798 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:29:02,798 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:31:29,950 [Worker-28: Building Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-06 07:31:31,282 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:31:31,283 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:31:31,285 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:31:31,286 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:32:04,444 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGroup:DemoArtifact:0.0.1-SNAPSHOT @ C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\pom.xml.
+2021-11-06 07:32:05,723 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:32:05,724 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:32:05,727 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:32:05,728 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:32:10,865 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:32:10,866 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:32:10,872 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:32:10,872 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:32:21,375 [Worker-26: Launching Executing clean in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-06 07:32:21,377 [Worker-26: Launching Executing clean in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-11-06 07:32:27,404 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:32:27,405 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:32:27,408 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:32:27,409 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:32:44,406 [Worker-18: Launching Executing install in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-06 07:32:44,406 [Worker-18: Launching Executing install in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-11-06 07:33:25,024 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:33:25,025 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:33:25,027 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:33:25,027 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:33:33,002 [Worker-26: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact
+2021-11-06 07:33:33,002 [Worker-26: Launching Executing test in C__Users_User_OneDrive_Desktop_Framework_DemoArtifact] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-11-06 07:38:46,253 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:38:46,254 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:38:46,262 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:38:46,262 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:39:40,144 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:39:40,145 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:39:40,147 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:39:40,147 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:39:52,426 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:39:52,427 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:39:52,428 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:39:52,429 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:41:37,394 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:41:37,394 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:41:37,401 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:41:37,402 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:49:10,571 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:49:10,572 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:49:10,577 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:49:10,579 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:49:33,419 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:49:33,420 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:49:33,422 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:49:33,423 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:50:00,116 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:50:00,116 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:50:00,123 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:50:00,123 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:51:16,089 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:51:16,089 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:51:16,092 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:51:16,093 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:51:52,894 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:51:52,894 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:51:52,896 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:51:52,897 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:52:11,339 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:52:11,341 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:52:11,348 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:52:11,366 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:52:28,669 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:52:28,670 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:52:28,673 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:52:28,674 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:53:17,579 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:53:17,580 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:53:17,583 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:53:17,584 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:53:39,672 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:53:39,673 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:53:39,675 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:53:39,675 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:53:45,417 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:53:45,418 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:53:45,420 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:53:45,421 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:54:57,480 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:54:57,480 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:54:57,482 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:54:57,482 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:55:51,144 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:55:51,145 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:55:51,147 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:55:51,147 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:57:18,414 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:57:18,414 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:57:18,416 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:57:18,416 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:57:58,459 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:57:58,460 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:57:58,462 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:57:58,462 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:58:14,596 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:58:14,597 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:58:14,599 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:58:14,599 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:58:26,782 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:58:26,782 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:58:26,785 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:58:26,785 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 07:59:25,930 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:59:25,931 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 07:59:25,933 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 07:59:25,933 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 12:07:45,939 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:07:45,939 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 12:07:45,941 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:07:45,942 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 12:07:51,947 [Worker-37: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:07:51,948 [Worker-37: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 12:07:51,950 [Worker-37: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:07:51,950 [Worker-37: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 12:09:43,400 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:09:43,402 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 12:09:43,405 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:09:43,405 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 12:10:19,754 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:10:19,755 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 12:10:19,757 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:10:19,757 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 12:55:16,706 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:55:16,733 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 12:55:16,737 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:55:16,737 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 12:55:22,978 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:55:22,980 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 12:55:22,982 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 12:55:22,982 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources
+2021-11-06 14:36:38,963 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 14:36:38,965 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\main\resources
+2021-11-06 14:36:38,968 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-06 14:36:38,968 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\OneDrive\Desktop\Framework\DemoArtifact\src\test\resources

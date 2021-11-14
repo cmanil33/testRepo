@@ -1,0 +1,25 @@
+Feature: To validate the login functionlity for the phpTravel application
+
+
+Scenario: To verify the login functionlity
+
+Given user is navigated to the application "https://www.phptravels.net/login" 
+When user entered the "user@phptravels.com" and "demouser"
+And user clicked on login button
+Then verify if user is successfully logged in
+
+
+
+Scenario Outline: To verify the login functionlity
+
+Given user is navigated to the application "https://www.phptravels.net/login" 
+When user entered the <userName> and <password>
+And user clicked on login button
+Then verify if user is successfully logged in
+
+Examples:
+|userName			|password 	 |
+|user@phptravels.com|demouser 	 |
+|user@phptravels.com|demouser123 |
+|user@phptravels.com|			 |
+|					|demouser	 |
